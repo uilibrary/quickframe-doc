@@ -43,7 +43,7 @@ const config: DocsThemeConfig = {
     extraContent: (
       <a
         target="_blank"
-        href="https://quickframeui.com"
+        href="https://quickframe-react.vercel.app"
         style={{
           fontSize: 14,
           padding: ".6rem .8rem",
